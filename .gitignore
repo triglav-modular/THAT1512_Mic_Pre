@@ -23,3 +23,6 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+thatmicpre-backups/thatmicpre-2022-04-22_110604.zip
+fp-info-cache
+.DS_Store
