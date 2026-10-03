@@ -23,7 +23,7 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
-thatmicpre-backups/*
+uAmp-backups/*
 fp-info-cache
 .DS_Store
 

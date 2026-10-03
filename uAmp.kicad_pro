@@ -52,7 +52,7 @@
         "zones": {
           "45_degree_only": false,
           "border_display_style": 2,
-          "border_hatch_pitch": 0.5,
+          "border_hatch_pitch": 0.508,
           "corner_radius": 0.0,
           "corner_smoothing": 0,
           "fill_mode": 0,
@@ -63,11 +63,11 @@
           "hatch_thickness": 1.0,
           "min_clearance": 0.508,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
+          "min_thickness": 0.254,
           "pad_connection": 1,
           "remove_islands": 0,
-          "thermal_relief_gap": 0.5,
-          "thermal_relief_spoke_width": 0.5
+          "thermal_relief_gap": 0.508,
+          "thermal_relief_spoke_width": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -515,7 +515,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "thatmicpre.kicad_pro",
+    "filename": "uAmp.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -696,8 +696,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "thatmicpre.kicad_sch",
-        "name": "thatmicpre",
+        "filename": "uAmp.kicad_sch",
+        "name": "uAmp",
         "uuid": "0f22151c-f260-4674-b486-4710a2c42a55"
       }
     ],
@@ -707,7 +707,7 @@
   "sheets": [
     [
       "0f22151c-f260-4674-b486-4710a2c42a55",
-      "thatmicpre"
+      "uAmp"
     ]
   ],
   "text_variables": {},
