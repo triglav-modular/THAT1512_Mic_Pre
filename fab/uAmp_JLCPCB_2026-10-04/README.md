@@ -1,8 +1,14 @@
 # µAmp rev 3 — JLCPCB bare-board package
 
-Generated 2026-10-04 from `uAmp.kicad_pcb` as saved 2026-10-04 09:58:05
-(sha256 `7fce3061e375…`), KiCad 10.0.6, `kicad-cli`. Bare boards only: no BOM,
+Generated 2026-10-04 from `uAmp.kicad_pcb` as saved 2026-10-04 10:15:07
+(sha256 `34b1dd3746bd…`), KiCad 10.0.6, `kicad-cli`. Bare boards only: no BOM,
 no placement file.
+
+Re-exported after the 09:58 package. The only change is that "TRIGLAV MODULAR"
+moved on the back silkscreen. Apart from creation dates, only
+`uAmp-B_Silkscreen.gbo` differs from the 09:58 files. KiCad also writes an empty
+NPTH drill file and its map; both are left out because the board has no
+unplated holes.
 
 ## Contents
 
